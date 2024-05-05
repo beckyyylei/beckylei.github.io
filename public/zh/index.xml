@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>雷宇星</title>
+    <link>https://yuminghuo.github.io/zh/</link>
+    <description>Recent content on 雷宇星</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Mon, 31 Jul 2023 23:49:49 +0800</lastBuildDate><atom:link href="https://yuminghuo.github.io/zh/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>关于我 👋</title>
+      <link>https://yuminghuo.github.io/zh/about/</link>
+      <pubDate>Mon, 31 Jul 2023 17:38:02 +0800</pubDate>
+      
+      <guid>https://yuminghuo.github.io/zh/about/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>My project 👨‍💻</title>
+      <link>https://yuminghuo.github.io/zh/inter/</link>
+      <pubDate>Mon, 31 Jul 2023 17:35:15 +0800</pubDate>
+      
+      <guid>https://yuminghuo.github.io/zh/inter/</guid>
+      <description> 尚未更新 </description>
+    </item>
+    
+    <item>
+      <title>My project 👨‍💻</title>
+      <link>https://yuminghuo.github.io/zh/project/</link>
+      <pubDate>Mon, 31 Jul 2023 17:35:15 +0800</pubDate>
+      
+      <guid>https://yuminghuo.github.io/zh/project/</guid>
+      <description> 基于动作捕捉服和深度学习改进马匹辅助治疗 2024.01-2024.05 Python PyTorch RNN FNN
+GitHub: https://github.com/YumingHuo/individual_project.git (Private Now)
+基于PyTorch开发并训练深度学习模型，并使用动态捕获套装进行数据采集。分别采用FNN和RNN模型实现对接受治疗患者情绪状态的自动识别。 原始时间序列数据的规范化，包括填充、截断和特征规范化，以确保数据的一致性和质量。 将FNN和RNN的训练结果可视化，以及RNN模型的混淆矩阵可视化，并将模型的预测结果与实际情况进行对比。 尚未更新 </description>
+    </item>
+    
+  </channel>
+</rss>
