@@ -16,9 +16,22 @@
       <guid>https://yuminghuo.github.io/en/about/</guid>
       <description>Name: Becky Lei
 Born year: 2000
+MBTI: INFJ-T
 Hometown: Foshan, Guangdong, China
-Current location: Bristol, UK
-Current university: University of Bristol</description>
+Current location: Bristol, UK</description>
+    </item>
+    
+    <item>
+      <title>Certificates 🏆</title>
+      <link>https://yuminghuo.github.io/en/certificates/</link>
+      <pubDate>Mon, 31 Jul 2023 17:35:15 +0800</pubDate>
+      
+      <guid>https://yuminghuo.github.io/en/certificates/</guid>
+      <description>The Cantonese Ambassador Scheme 2022 - 2023
+Scholarship 2020 - 2021
+Non-local Mentorship 2021 - 2022
+QTSA Certificate 2022.08
+Outsanding Student 2023</description>
     </item>
     
     <item>
@@ -30,17 +43,6 @@ Current university: University of Bristol</description>
       <description>MindFront Xinlin Medical Group (Counselling Department) 2023.05 – 2023.08
 Assist in material preparation for group therapy. Write observation reports. Assist the marketing department in the preparation of psychology-related content Tai Hing Group Holdings Limited (Training Department) 2022.06 – 2022.08
 Prepare training materials and assist in making a record of each training course. Develop training and development programs and objectives. Metropolitan University of Hong Kong (Student Affairs Office) 2021.07 - 2022.</description>
-    </item>
-    
-    <item>
-      <title>My project 👨‍💻</title>
-      <link>https://yuminghuo.github.io/en/project/</link>
-      <pubDate>Mon, 31 Jul 2023 17:35:15 +0800</pubDate>
-      
-      <guid>https://yuminghuo.github.io/en/project/</guid>
-      <description>Based on Body Capture Suit and Deep Learning to Improve Equine-Assisted Therapy 2024.01-2024.05 Python PyTorch RNN FNN
-GitHub: https://github.com/YumingHuo/individual_project.git (Private Now)
-The deep learning model was developed and trained based on PyTorch, and the data was collected using the dynamic capture suit. FNN and RNN models were used respectively to realize the automatic identification of the emotional state of patients receiving treatment. Normalization of raw time series data, including padding, truncation, and feature normalization, to ensure data consistency and quality.</description>
     </item>
     
   </channel>

@@ -41,6 +41,9 @@
                 href="https://yuminghuo.github.io/en/about/"
                 />
   </url><url>
+    <loc>https://yuminghuo.github.io/en/certificates/</loc>
+    <lastmod>2023-07-31T17:35:15+08:00</lastmod>
+  </url><url>
     <loc>https://yuminghuo.github.io/en/inter/</loc>
     <lastmod>2023-07-31T17:35:15+08:00</lastmod>
     <xhtml:link
@@ -52,19 +55,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://yuminghuo.github.io/en/inter/"
-                />
-  </url><url>
-    <loc>https://yuminghuo.github.io/en/project/</loc>
-    <lastmod>2023-07-31T17:35:15+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://yuminghuo.github.io/zh/project/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://yuminghuo.github.io/en/project/"
                 />
   </url><url>
     <loc>https://yuminghuo.github.io/en/categories/</loc>

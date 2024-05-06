@@ -19,8 +19,9 @@ class Me:
 
 **Born year**: 2000
 
+**MBTI**: INFJ-T
+
 **Hometown**: Foshan, Guangdong, China
 
 **Current location**: Bristol, UK
 
-**Current university**: University of Bristol

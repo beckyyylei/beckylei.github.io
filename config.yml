@@ -5,6 +5,12 @@ theme: PaperMod
 defaultContentLanguage: en
 defaultContentLanguageInSubdir: true
 
+# 允许在 Markdown 中使用 HTML 标签
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
 languages:
   en:
     languageName: "English"
@@ -20,13 +26,15 @@ languages:
       defaultTheme: dark
       ShowShareButtons: false
       ShowReadingTime: true
-      author: ["Yuming"]
+      author: ["Becky"]
       ShowBreadCrumbs: true
       ShowPostNavLinks: true
       profileMode:
         enabled: true
-        title: "Becky Lei"
-        subtitle: "University of Bristol"
+        title: "Yuxing(Becky) Lei"
+        subtitle: "Master of Psychology of Education (University of Bristol), 2023 - 2024 <br> 
+        Bachelor of Applied Psychology (Hong Kong Metropolitan University), 2019 - 2023 <br>
+        Bachelor of Business Management (Hong Kong Metropolitan University), 2019 - 2023"
         imageUrl: "img/pp.JPG"
         imageTitle: "Becky"
         imageWidth: 160
@@ -34,19 +42,15 @@ languages:
         buttons:
           - name: About me
             url: "/en/about/"
-          # - name: My project
-          #   url: "/en/project/"
+          - name: Certificates
+            url: "/en/certificates/"
           - name: My intership
             url: "/en/inter/"
           - name: Resume
             url: "/pdf/becky.pdf"
       socialIcons:
-        - name: "Github"
-          url: "https://github.com/beckyyylei"
         - name: "email"
           url: "mailto:beckylei1215@outlook.com"
-        # - name: "Discord"
-        #   url: "https://discordapp.com/users/huoh"
     
   zh:
     languageName: "中文"
@@ -63,13 +67,15 @@ languages:
       defaultTheme: dark
       ShowShareButtons: false
       ShowReadingTime: true
-      author: ["Yuming"]
+      author: ["Becky"]
       ShowBreadCrumbs: true
       ShowPostNavLinks: true
       profileMode:
         enabled: true
         title: "雷宇星"
-        subtitle: "布里斯托大学硕士"
+        subtitle: "教育心理学硕士（布里斯托大学）<br>
+                  应用心理学学士（香港都会大学）<br>
+                  工商管理学士（香港都会大学）"
         imageUrl: "img/pp.JPG"
         imageTitle: "becky"
         imageWidth: 160
@@ -84,9 +90,5 @@ languages:
           - name: 简历
             url: "/pdf/cv.pdf"
       socialIcons:
-        - name: "Github"
-          url: "https://github.com/beckyyylei"
         - name: "email"
           url: "mailto:bekcylei1215@outlook.com"
-        - name: "Discord"
-          url: "https://discordapp.com/users"
