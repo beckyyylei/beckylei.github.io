@@ -47,7 +47,7 @@ languages:
           - name: My intership
             url: "/en/inter/"
           - name: Resume
-            url: "/pdf/becky.pdf"
+            url: "/pdf/cv.pdf"
       socialIcons:
         - name: "email"
           url: "mailto:beckylei1215@outlook.com"
@@ -73,9 +73,9 @@ languages:
       profileMode:
         enabled: true
         title: "雷宇星"
-        subtitle: "教育心理学硕士（布里斯托大学）<br>
-                  应用心理学学士（香港都会大学）<br>
-                  工商管理学士（香港都会大学）"
+        subtitle: "教育心理学硕士 (布里斯托大学), 2023 - 2024 年 <br>
+        应用心理学学士 (香港都会大学), 2019 - 2023 年 <br>
+        工商管理学士 (香港都会大学), 2019 - 2023 年"
         imageUrl: "img/pp.JPG"
         imageTitle: "becky"
         imageWidth: 160
@@ -83,12 +83,12 @@ languages:
         buttons:
           - name: 关于我
             url: "/zh/about/"
-          # - name: 项目经历
-          #   url: "/zh/project/"
+          - name: 获奖经历
+            url: "/zh/certificates/"
           - name: 实习经历
             url: "/zh/inter/"
           - name: 简历
-            url: "/pdf/cv.pdf"
+            url: "/pdf/chinese.pdf"
       socialIcons:
         - name: "email"
           url: "mailto:bekcylei1215@outlook.com"

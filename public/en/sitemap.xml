@@ -2,34 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://yuminghuo.github.io/en/</loc>
-    <lastmod>2023-07-31T23:49:49+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://yuminghuo.github.io/zh/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://yuminghuo.github.io/en/"
-                />
-  </url><url>
-    <loc>https://yuminghuo.github.io/en/search/</loc>
-    <lastmod>2023-07-31T23:49:49+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://yuminghuo.github.io/zh/search/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://yuminghuo.github.io/en/search/"
-                />
-  </url><url>
     <loc>https://yuminghuo.github.io/en/about/</loc>
-    <lastmod>2023-07-31T17:38:02+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -41,20 +14,16 @@
                 href="https://yuminghuo.github.io/en/about/"
                 />
   </url><url>
-    <loc>https://yuminghuo.github.io/en/certificates/</loc>
-    <lastmod>2023-07-31T17:35:15+08:00</lastmod>
-  </url><url>
-    <loc>https://yuminghuo.github.io/en/inter/</loc>
-    <lastmod>2023-07-31T17:35:15+08:00</lastmod>
+    <loc>https://yuminghuo.github.io/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://yuminghuo.github.io/zh/inter/"
+                href="https://yuminghuo.github.io/zh/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://yuminghuo.github.io/en/inter/"
+                href="https://yuminghuo.github.io/en/"
                 />
   </url><url>
     <loc>https://yuminghuo.github.io/en/categories/</loc>
@@ -67,6 +36,42 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://yuminghuo.github.io/en/categories/"
+                />
+  </url><url>
+    <loc>https://yuminghuo.github.io/en/certificates/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://yuminghuo.github.io/zh/certificates/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://yuminghuo.github.io/en/certificates/"
+                />
+  </url><url>
+    <loc>https://yuminghuo.github.io/en/inter/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://yuminghuo.github.io/zh/inter/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://yuminghuo.github.io/en/inter/"
+                />
+  </url><url>
+    <loc>https://yuminghuo.github.io/en/search/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://yuminghuo.github.io/zh/search/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://yuminghuo.github.io/en/search/"
                 />
   </url><url>
     <loc>https://yuminghuo.github.io/en/tags/</loc>

@@ -5,36 +5,42 @@
     <link>https://yuminghuo.github.io/zh/</link>
     <description>Recent content on 雷宇星</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh</language>
-    <lastBuildDate>Mon, 31 Jul 2023 23:49:49 +0800</lastBuildDate><atom:link href="https://yuminghuo.github.io/zh/index.xml" rel="self" type="application/rss+xml" />
-    
+    <language>zh</language><atom:link href="https://yuminghuo.github.io/zh/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>关于我 👋</title>
       <link>https://yuminghuo.github.io/zh/about/</link>
-      <pubDate>Mon, 31 Jul 2023 17:38:02 +0800</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://yuminghuo.github.io/zh/about/</guid>
-      <description></description>
+      <description>姓名: 雷宇星
+出生年月: 2000.12
+MBTI: INFJ-T
+籍贯: 中国，广东，佛山</description>
     </item>
     
     <item>
-      <title>My project 👨‍💻</title>
+      <title>实习经历 🏢</title>
       <link>https://yuminghuo.github.io/zh/inter/</link>
-      <pubDate>Mon, 31 Jul 2023 17:35:15 +0800</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://yuminghuo.github.io/zh/inter/</guid>
-      <description> 尚未更新 </description>
+      <description> 曼朗心邻医疗集团（心理咨询部） 2023.05 – 2023.08
+协助儿童团体治疗课前的材料准备工作和课程设计。 参与撰写儿童团体治疗观察报告,详细记录了成员的言语和非言语行为。 协助市场部准备心理学科普文章,将专业词汇转化为通俗易懂的内容。 太兴集团控股有限公司(培训部) 2022.06 – 2022.08
+协助准备各次培训材料包括PPT、宣传短片和活动材料等。 记录培训课程的关键内容和学员反馈。 协助培训师进行培训课程的现场管理和学员的问题解答。 协助季度性分店巡查并完成巡查报告的记录统计。 负责记录培训课程的关键内容和学员反馈,为培训效果评估提供依据。 香港都会大学（学生事务处） 2021.07 - 2022.07
+策划并参与至少5场大陆学生交流活动,包括分享会、城市探索游等。 协助教授非本地学生粤语课程,设计互动游戏和情景对话,提高学生的学习兴趣和参与度 协助策划并组织大学生心理健康讲座,提高学生对心理健康的认识和重视程度。 </description>
     </item>
     
+    
     <item>
-      <title>My project 👨‍💻</title>
-      <link>https://yuminghuo.github.io/zh/project/</link>
-      <pubDate>Mon, 31 Jul 2023 17:35:15 +0800</pubDate>
+      <title>证书 🏆</title>
+      <link>https://yuminghuo.github.io/zh/certificates/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://yuminghuo.github.io/zh/project/</guid>
-      <description> 基于动作捕捉服和深度学习改进马匹辅助治疗 2024.01-2024.05 Python PyTorch RNN FNN
-GitHub: https://github.com/YumingHuo/individual_project.git (Private Now)
-基于PyTorch开发并训练深度学习模型，并使用动态捕获套装进行数据采集。分别采用FNN和RNN模型实现对接受治疗患者情绪状态的自动识别。 原始时间序列数据的规范化，包括填充、截断和特征规范化，以确保数据的一致性和质量。 将FNN和RNN的训练结果可视化，以及RNN模型的混淆矩阵可视化，并将模型的预测结果与实际情况进行对比。 尚未更新 </description>
+      <guid>https://yuminghuo.github.io/zh/certificates/</guid>
+      <description>广东话大使计划 2022 - 2023
+舒小佩奖学金 2020 - 2021
+非本地生导师计划 2021 - 2022
+心理健康大使 2022.02 - 2022.08</description>
     </item>
     
   </channel>

@@ -1,6 +1,6 @@
 ---
 title: "关于我 👋"
-date: 2023-07-31T17:38:02+08:00
+# date: 2023-07-31T17:38:02+08:00
 draft: false
 ---
 
@@ -14,3 +14,11 @@ class Me:
         self.current_location = "英国布里斯托"
         self.current_university = "布里斯托大学"
 ``` -->
+
+**姓名**: 雷宇星
+
+**出生年月**: 2000.12
+
+**MBTI**: INFJ-T
+
+**籍贯**: 中国，广东，佛山
